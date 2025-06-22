@@ -2,7 +2,7 @@
 pkgname=calamares-kde-nv
 _destname1="/etc"
 pkgver=3.3.14
-pkgrel=2
+pkgrel=4
 pkgdesc="calamares Config for XeroLinux (Phase 2)"
 arch=('any')
 url="https://github.com/XeroLinuxDev"
